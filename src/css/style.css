@@ -1,0 +1,42 @@
+body {
+   background-image:url("../images/theme/Shelby.jpg") !important;
+    background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-color: rgb(154,154,204) !important;
+}
+
+.bg-custom { 
+   background-color: rgb(150,150,80) !important; 
+}
+
+.btn-custom{
+  background-color: rgb(150,150,80) !important;   
+}
+
+.featurette-divider{
+   height: 3px;
+   margin-left: 100px;
+      margin-right: 100px;
+      padding: 0;
+      color:rgb(150,150,80);
+      background-color:rgb(150,150,80);
+      border: 0;
+}
+
+.commande {
+   
+    border: 2px solid green;
+}
+
+.info{
+   border: 2px solid green;
+}
+
+.nouveauClient{
+ border: 2px solid green;  
+}
+
+.tableau{
+   margin-left: 50px;
+}
