@@ -54,7 +54,7 @@ $("#tableProductsBody").delegate(".productCode","change",function(){
             console.log(name);
             var price = reponse[0].buyPrice;
             console.log(price);
-            var stock = reponse[0].quantityiInStock;
+            var stock = reponse[0].quantityInStock;
             console.log(stock);
            
 

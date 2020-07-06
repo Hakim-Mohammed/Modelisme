@@ -2,7 +2,7 @@
     //	Connexion à la base de données
 	$pdo = new PDO
 	(
-		'mysql:host=localhost;dbname=classicmodels;charset=UTF8',
+		'mysql:host=localhost;dbname=modelisme;charset=UTF8',
 		'root',
 		'',
 	    [

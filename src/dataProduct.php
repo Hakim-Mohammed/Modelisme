@@ -5,7 +5,7 @@
         (
             "SELECT productName,
                     buyPrice,
-                    quantityiInStock
+                    quantityInStock
             FROM    products
             WHERE   productCode = ?"
         );
